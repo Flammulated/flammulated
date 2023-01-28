@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Flammulated! 👋
+
+I'm a computer science university student that's interested in learning new technologies! Some fields that pique my interest are artificial intelligence, machine learning, and web development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flammulated&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
